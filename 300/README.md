@@ -15,3 +15,7 @@ See [README.md](./300/README.md)
 ## 400 - Using extensions
 
 See [README.md](./400/README.md)
+
+## 500 - Troubleshooting
+
+See [README.md](./500/README.md)
